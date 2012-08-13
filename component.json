@@ -3,7 +3,7 @@
   "description": "A sane JSONP implementation.",
   "version": "0.0.1",
   "dependencies": {
-    "visionmedia/debug": "*"
+    "uniba/debug": "*"
   },
   "scripts": ["jsonp.js"]
 }

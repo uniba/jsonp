@@ -5,7 +5,5 @@
   "dependencies": {
     "visionmedia/debug": "*"
   },
-  "scripts": {
-    "jsonp": "jsonp.js"
-  }
+  "scripts": ["jsonp.js"]
 }

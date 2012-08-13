@@ -3,11 +3,9 @@
   "description": "A sane JSONP implementation.",
   "version": "0.0.1",
   "dependencies": {
-    "debug": "*"
+    "visionmedia/debug": "*"
   },
-  "component": {
-    "scripts": {
-      "jsonp": "jsonp.js"
-    }
+  "scripts": {
+    "jsonp": "jsonp.js"
   }
 }
